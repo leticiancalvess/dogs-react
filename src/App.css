@@ -13,6 +13,10 @@ body {
   font-family: var(--type-first);
 }
 
+.mainContainer {
+  margin-top: 2rem;
+}
+
 h1,
 h2,
 h3,
